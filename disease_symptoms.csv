@@ -1,0 +1,704 @@
+Disease,Symptom,Weight
+Foot and Mouth Disease,Blisters on mouth,1.0
+Foot and Mouth Disease,Blisters on hooves,1.0
+Foot and Mouth Disease,Excessive salivation,0.9
+Foot and Mouth Disease,Lameness,0.8
+Foot and Mouth Disease,Fever,0.8
+Foot and Mouth Disease,Loss of appetite,0.7
+Foot and Mouth Disease,Nasal discharge,0.6
+Foot and Mouth Disease,Weight loss,0.5
+Bovine Tuberculosis,Chronic cough,1.0
+Bovine Tuberculosis,Progressive weight loss,0.9
+Bovine Tuberculosis,Weakness,0.8
+Bovine Tuberculosis,Enlarged lymph nodes,0.9
+Bovine Tuberculosis,Reduced milk production,0.7
+Bovine Tuberculosis,Fever,0.7
+Bovine Tuberculosis,Difficulty breathing,0.8
+Bovine Tuberculosis,Loss of appetite,0.6
+Bovine Tuberculosis,Nasal discharge,0.6
+Bovine Tuberculosis,Emaciation,0.8
+Brucellosis,Abortion in late pregnancy,1.0
+Brucellosis,Retained placenta,0.9
+Brucellosis,Infertility,0.9
+Brucellosis,Swollen joints,0.7
+Brucellosis,Fever,0.7
+Brucellosis,Weakness,0.6
+Brucellosis,Reduced milk production,0.7
+Brucellosis,Orchitis in males,0.8
+Anthrax,Sudden death,1.0
+Anthrax,High fever,1.0
+Anthrax,Bloody discharge from orifices,1.0
+Anthrax,Swelling of throat,0.9
+Anthrax,Difficulty breathing,0.9
+Anthrax,Convulsions,0.8
+Anthrax,Dark blood that fails to clot,0.9
+Blackleg,Sudden lameness,1.0
+Blackleg,Swelling of hindquarters,1.0
+Blackleg,Crackling sound under skin,0.9
+Blackleg,High fever,0.9
+Blackleg,Depression,0.8
+Blackleg,Loss of appetite,0.7
+Blackleg,Rapid death,0.9
+Blackleg,Dark discoloration of skin,0.8
+Bovine Respiratory Disease,Coughing,0.9
+Bovine Respiratory Disease,Nasal discharge,0.9
+Bovine Respiratory Disease,Fever,0.8
+Bovine Respiratory Disease,Difficulty breathing,0.9
+Bovine Respiratory Disease,Depression,0.7
+Bovine Respiratory Disease,Loss of appetite,0.7
+Bovine Respiratory Disease,Rapid breathing,0.8
+Bovine Respiratory Disease,Eye discharge,0.6
+Mastitis,Swollen udder,1.0
+Mastitis,Hot udder,0.9
+Mastitis,Painful udder,0.9
+Mastitis,Clots in milk,1.0
+Mastitis,Reduced milk production,0.9
+Mastitis,Watery milk,0.8
+Mastitis,Fever,0.7
+Mastitis,Loss of appetite,0.6
+Lumpy Skin Disease,Skin nodules,1.0
+Lumpy Skin Disease,Fever,0.9
+Lumpy Skin Disease,Nasal discharge,0.7
+Lumpy Skin Disease,Lacrimation,0.7
+Lumpy Skin Disease,Swollen lymph nodes,0.8
+Lumpy Skin Disease,Reduced milk production,0.7
+Lumpy Skin Disease,Loss of appetite,0.6
+Lumpy Skin Disease,Lameness,0.6
+Rinderpest,High fever,1.0
+Rinderpest,Erosions in mouth,1.0
+Rinderpest,Bloody diarrhea,1.0
+Rinderpest,Severe dehydration,0.9
+Rinderpest,Nasal discharge,0.8
+Rinderpest,Eye discharge,0.8
+Rinderpest,Weakness,0.8
+Rinderpest,Loss of appetite,0.7
+Bovine Viral Diarrhea,Diarrhea,0.9
+Bovine Viral Diarrhea,Fever,0.8
+Bovine Viral Diarrhea,Nasal discharge,0.7
+Bovine Viral Diarrhea,Mouth lesions,0.8
+Bovine Viral Diarrhea,Loss of appetite,0.7
+Bovine Viral Diarrhea,Reduced milk production,0.6
+Bovine Viral Diarrhea,Coughing,0.6
+Bovine Viral Diarrhea,Weakness,0.7
+Bovine Viral Diarrhea,Abortion,0.8
+Trypanosomiasis,Anemia,0.9
+Trypanosomiasis,Weight loss,0.9
+Trypanosomiasis,Weakness,0.8
+Trypanosomiasis,Intermittent fever,0.9
+Trypanosomiasis,Swollen lymph nodes,0.7
+Trypanosomiasis,Lacrimation,0.6
+Trypanosomiasis,Nasal discharge,0.6
+Trypanosomiasis,Loss of appetite,0.7
+Trypanosomiasis,Pale mucous membranes,0.8
+Theileriosis,Fever,0.9
+Theileriosis,Swollen lymph nodes,0.9
+Theileriosis,Anemia,0.8
+Theileriosis,Difficulty breathing,0.8
+Theileriosis,Jaundice,0.8
+Theileriosis,Nasal discharge,0.6
+Theileriosis,Loss of appetite,0.7
+Theileriosis,Weakness,0.7
+Theileriosis,Eye discharge,0.6
+Babesiosis,High fever,0.9
+Babesiosis,Jaundice,0.9
+Babesiosis,Hemoglobinuria,1.0
+Babesiosis,Anemia,0.9
+Babesiosis,Weakness,0.8
+Babesiosis,Loss of appetite,0.7
+Babesiosis,Pale mucous membranes,0.8
+Babesiosis,Rapid breathing,0.7
+Grass Tetany,Muscle tremors,1.0
+Grass Tetany,Convulsions,1.0
+Grass Tetany,Staggering,0.9
+Grass Tetany,Hyperexcitability,0.9
+Grass Tetany,Rapid death,0.9
+Grass Tetany,Excessive salivation,0.7
+Grass Tetany,Loss of appetite,0.6
+Grass Tetany,Teeth grinding,0.8
+Milk Fever,Muscle weakness,1.0
+Milk Fever,Inability to stand,1.0
+Milk Fever,Cold extremities,0.9
+Milk Fever,Dull consciousness,0.9
+Milk Fever,Rapid heart rate,0.8
+Milk Fever,Loss of appetite,0.7
+Milk Fever,Reduced milk production,0.7
+Milk Fever,Bloat,0.6
+Ketosis,Loss of appetite,0.9
+Ketosis,Weight loss,0.9
+Ketosis,Reduced milk production,0.9
+Ketosis,Sweet smell on breath,1.0
+Ketosis,Nervousness,0.7
+Ketosis,Staggering,0.7
+Ketosis,Depression,0.7
+Bloat,Distended abdomen,1.0
+Bloat,Difficulty breathing,0.9
+Bloat,Discomfort,0.9
+Bloat,Rapid breathing,0.8
+Bloat,Collapse,0.8
+Bloat,Loss of appetite,0.7
+Bloat,Kicking at abdomen,0.8
+Bloat,Salivation,0.6
+Hardware Disease,Loss of appetite,0.9
+Hardware Disease,Reluctance to move,0.9
+Hardware Disease,Grunting with movement,1.0
+Hardware Disease,Weight loss,0.8
+Hardware Disease,Decreased milk production,0.7
+Hardware Disease,Fever,0.7
+Hardware Disease,Painful expression,0.8
+Hardware Disease,Arched back,0.8
+Ringworm,Circular skin lesions,1.0
+Ringworm,Hair loss,1.0
+Ringworm,Crusty skin,0.9
+Ringworm,Itching,0.8
+Ringworm,Thickened skin,0.7
+Ringworm,Scaling,0.8
+Ringworm,Redness,0.7
+Mange,Intense itching,1.0
+Mange,Hair loss,0.9
+Mange,Thickened skin,0.9
+Mange,Crusty lesions,0.9
+Mange,Redness,0.8
+Mange,Restlessness,0.7
+Mange,Weight loss,0.6
+Mange,Skin wrinkles,0.7
+Liver Fluke Disease,Weight loss,0.9
+Liver Fluke Disease,Anemia,0.9
+Liver Fluke Disease,Bottle jaw,0.9
+Liver Fluke Disease,Reduced milk production,0.7
+Liver Fluke Disease,Weakness,0.8
+Liver Fluke Disease,Diarrhea,0.7
+Liver Fluke Disease,Loss of appetite,0.7
+Liver Fluke Disease,Jaundice,0.8
+Haemonchosis,Anemia,1.0
+Haemonchosis,Bottle jaw,0.9
+Haemonchosis,Weakness,0.9
+Haemonchosis,Weight loss,0.9
+Haemonchosis,Diarrhea,0.7
+Haemonchosis,Pale mucous membranes,0.9
+Haemonchosis,Reduced productivity,0.7
+Haemonchosis,Loss of appetite,0.7
+Contagious Bovine Pleuropneumonia,Fever,0.9
+Contagious Bovine Pleuropneumonia,Coughing,0.9
+Contagious Bovine Pleuropneumonia,Difficulty breathing,1.0
+Contagious Bovine Pleuropneumonia,Nasal discharge,0.8
+Contagious Bovine Pleuropneumonia,Painful breathing,0.9
+Contagious Bovine Pleuropneumonia,Weight loss,0.7
+Contagious Bovine Pleuropneumonia,Reduced milk production,0.7
+Contagious Bovine Pleuropneumonia,Depression,0.7
+Bovine Leukemia,Weight loss,0.8
+Bovine Leukemia,Enlarged lymph nodes,0.9
+Bovine Leukemia,Weakness,0.8
+Bovine Leukemia,Reduced milk production,0.7
+Bovine Leukemia,Digestive disturbances,0.7
+Bovine Leukemia,Exophthalmos,0.8
+Bovine Leukemia,Fever,0.6
+Bovine Leukemia,Loss of appetite,0.7
+Rabies,Behavior change,1.0
+Rabies,Aggression,1.0
+Rabies,Excessive salivation,0.9
+Rabies,Paralysis,0.9
+Rabies,Hydrophobia,0.9
+Rabies,Convulsions,0.9
+Rabies,Self mutilation,0.8
+Rabies,Loss of coordination,0.8
+Canine Distemper,Fever,0.9
+Canine Distemper,Nasal discharge,0.9
+Canine Distemper,Eye discharge,0.9
+Canine Distemper,Coughing,0.8
+Canine Distemper,Diarrhea,0.8
+Canine Distemper,Convulsions,0.9
+Canine Distemper,Hard pads,0.9
+Canine Distemper,Loss of appetite,0.7
+Canine Distemper,Vomiting,0.7
+Canine Parvovirus,Bloody diarrhea,1.0
+Canine Parvovirus,Severe vomiting,1.0
+Canine Parvovirus,Lethargy,0.9
+Canine Parvovirus,Fever,0.8
+Canine Parvovirus,Loss of appetite,0.8
+Canine Parvovirus,Dehydration,0.9
+Canine Parvovirus,Abdominal pain,0.8
+Canine Parvovirus,Foul smelling feces,0.9
+Canine Infectious Hepatitis,Fever,0.9
+Canine Infectious Hepatitis,Vomiting,0.8
+Canine Infectious Hepatitis,Abdominal pain,0.9
+Canine Infectious Hepatitis,Jaundice,0.9
+Canine Infectious Hepatitis,Corneal edema,0.9
+Canine Infectious Hepatitis,Loss of appetite,0.7
+Canine Infectious Hepatitis,Diarrhea,0.7
+Canine Infectious Hepatitis,Pale mucous membranes,0.8
+Kennel Cough,Persistent dry cough,1.0
+Kennel Cough,Retching,0.9
+Kennel Cough,Nasal discharge,0.8
+Kennel Cough,Sneezing,0.7
+Kennel Cough,Eye discharge,0.6
+Kennel Cough,Low fever,0.6
+Kennel Cough,Lethargy,0.6
+Canine Leptospirosis,Fever,0.9
+Canine Leptospirosis,Vomiting,0.8
+Canine Leptospirosis,Muscle pain,0.8
+Canine Leptospirosis,Jaundice,0.9
+Canine Leptospirosis,Increased thirst,0.7
+Canine Leptospirosis,Increased urination,0.7
+Canine Leptospirosis,Lethargy,0.8
+Canine Leptospirosis,Hemorrhage,0.8
+Canine Ehrlichiosis,Fever,0.9
+Canine Ehrlichiosis,Loss of appetite,0.8
+Canine Ehrlichiosis,Lethargy,0.8
+Canine Ehrlichiosis,Nosebleed,0.9
+Canine Ehrlichiosis,Lymph node enlargement,0.8
+Canine Ehrlichiosis,Anemia,0.8
+Canine Ehrlichiosis,Lameness,0.7
+Hip Dysplasia,Difficulty rising,0.9
+Hip Dysplasia,Decreased activity,0.8
+Hip Dysplasia,Hind limb lameness,0.9
+Hip Dysplasia,Pain on hip extension,1.0
+Hip Dysplasia,Muscle wasting in hindquarters,0.8
+Hip Dysplasia,Bunny hopping gait,0.9
+Hip Dysplasia,Narrow stance,0.7
+Hip Dysplasia,Reluctance to jump,0.8
+Canine Hypothyroidism,Weight gain,0.9
+Canine Hypothyroidism,Lethargy,0.9
+Canine Hypothyroidism,Hair loss,0.8
+Canine Hypothyroidism,Skin thickening,0.8
+Canine Hypothyroidism,Cold intolerance,0.8
+Canine Hypothyroidism,Slow heart rate,0.8
+Canine Hypothyroidism,Mental dullness,0.7
+Canine Hypothyroidism,Muscle weakness,0.7
+Feline Panleukopenia,Fever,0.9
+Feline Panleukopenia,Vomiting,0.9
+Feline Panleukopenia,Diarrhea,0.9
+Feline Panleukopenia,Lethargy,0.9
+Feline Panleukopenia,Loss of appetite,0.8
+Feline Panleukopenia,Dehydration,0.9
+Feline Panleukopenia,Abdominal pain,0.8
+Feline Herpesvirus,Sneezing,0.9
+Feline Herpesvirus,Nasal discharge,0.9
+Feline Herpesvirus,Eye discharge,0.9
+Feline Herpesvirus,Fever,0.8
+Feline Herpesvirus,Corneal ulcers,0.9
+Feline Herpesvirus,Loss of appetite,0.7
+Feline Herpesvirus,Lethargy,0.7
+Feline Herpesvirus,Conjunctivitis,0.9
+Feline Calicivirus,Oral ulcers,1.0
+Feline Calicivirus,Sneezing,0.8
+Feline Calicivirus,Fever,0.7
+Feline Calicivirus,Nasal discharge,0.7
+Feline Calicivirus,Joint pain,0.7
+Feline Calicivirus,Lethargy,0.7
+Feline Calicivirus,Loss of appetite,0.7
+Feline Leukemia Virus,Weight loss,0.9
+Feline Leukemia Virus,Anemia,0.9
+Feline Leukemia Virus,Lethargy,0.8
+Feline Leukemia Virus,Enlarged lymph nodes,0.9
+Feline Leukemia Virus,Recurring infections,0.8
+Feline Leukemia Virus,Loss of appetite,0.7
+Feline Leukemia Virus,Pale mucous membranes,0.8
+Feline Immunodeficiency Virus,Recurrent infections,0.9
+Feline Immunodeficiency Virus,Weight loss,0.8
+Feline Immunodeficiency Virus,Lethargy,0.8
+Feline Immunodeficiency Virus,Enlarged lymph nodes,0.8
+Feline Immunodeficiency Virus,Fever,0.7
+Feline Immunodeficiency Virus,Oral disease,0.8
+Feline Immunodeficiency Virus,Eye inflammation,0.7
+Feline Immunodeficiency Virus,Diarrhea,0.7
+Feline Infectious Peritonitis,Fever,0.9
+Feline Infectious Peritonitis,Abdominal distension,0.9
+Feline Infectious Peritonitis,Weight loss,0.8
+Feline Infectious Peritonitis,Lethargy,0.8
+Feline Infectious Peritonitis,Loss of appetite,0.8
+Feline Infectious Peritonitis,Jaundice,0.8
+Feline Infectious Peritonitis,Neurological signs,0.8
+Feline Hyperthyroidism,Weight loss,0.9
+Feline Hyperthyroidism,Increased appetite,0.9
+Feline Hyperthyroidism,Hyperactivity,0.9
+Feline Hyperthyroidism,Vomiting,0.7
+Feline Hyperthyroidism,Diarrhea,0.7
+Feline Hyperthyroidism,Increased thirst,0.7
+Feline Hyperthyroidism,Rapid heart rate,0.8
+Feline Hyperthyroidism,Hair loss,0.6
+Feline Diabetes,Increased thirst,0.9
+Feline Diabetes,Increased urination,0.9
+Feline Diabetes,Weight loss,0.9
+Feline Diabetes,Increased appetite,0.8
+Feline Diabetes,Lethargy,0.7
+Feline Diabetes,Poor coat condition,0.6
+Feline Diabetes,Weakness in hind legs,0.8
+Feline Kidney Disease,Increased thirst,0.9
+Feline Kidney Disease,Increased urination,0.9
+Feline Kidney Disease,Weight loss,0.8
+Feline Kidney Disease,Vomiting,0.8
+Feline Kidney Disease,Loss of appetite,0.8
+Feline Kidney Disease,Lethargy,0.7
+Feline Kidney Disease,Bad breath,0.7
+Feline Kidney Disease,Dehydration,0.8
+Goat Pox,Skin pustules,1.0
+Goat Pox,Fever,0.9
+Goat Pox,Nasal discharge,0.8
+Goat Pox,Loss of appetite,0.7
+Goat Pox,Eye discharge,0.7
+Goat Pox,Swollen lymph nodes,0.7
+Goat Pox,Respiratory distress,0.8
+Goat Pox,Lesions on mucous membranes,0.9
+Peste des Petits Ruminants,High fever,1.0
+Peste des Petits Ruminants,Nasal discharge,0.9
+Peste des Petits Ruminants,Eye discharge,0.9
+Peste des Petits Ruminants,Mouth sores,0.9
+Peste des Petits Ruminants,Diarrhea,0.9
+Peste des Petits Ruminants,Coughing,0.8
+Peste des Petits Ruminants,Pneumonia signs,0.8
+Peste des Petits Ruminants,Loss of appetite,0.8
+Contagious Caprine Pleuropneumonia,Coughing,1.0
+Contagious Caprine Pleuropneumonia,Fever,0.9
+Contagious Caprine Pleuropneumonia,Difficulty breathing,1.0
+Contagious Caprine Pleuropneumonia,Nasal discharge,0.8
+Contagious Caprine Pleuropneumonia,Weight loss,0.7
+Contagious Caprine Pleuropneumonia,Depression,0.7
+Contagious Caprine Pleuropneumonia,Loss of appetite,0.7
+Goat Brucellosis,Abortion,1.0
+Goat Brucellosis,Retained placenta,0.9
+Goat Brucellosis,Infertility,0.8
+Goat Brucellosis,Orchitis,0.8
+Goat Brucellosis,Swollen joints,0.7
+Goat Brucellosis,Fever,0.7
+Goat Brucellosis,Reduced milk production,0.7
+Caprine Arthritis Encephalitis,Joint swelling,1.0
+Caprine Arthritis Encephalitis,Lameness,0.9
+Caprine Arthritis Encephalitis,Weight loss,0.8
+Caprine Arthritis Encephalitis,Neurological signs in kids,0.9
+Caprine Arthritis Encephalitis,Reduced milk production,0.7
+Caprine Arthritis Encephalitis,Hard udder,0.8
+Caprine Arthritis Encephalitis,Weakness,0.7
+Sheep Scab,Intense itching,1.0
+Sheep Scab,Wool loss,1.0
+Sheep Scab,Restlessness,0.9
+Sheep Scab,Skin crusting,0.9
+Sheep Scab,Weight loss,0.7
+Sheep Scab,Biting at skin,0.8
+Sheep Scab,Agitation,0.7
+Ovine Johnes Disease,Chronic diarrhea,1.0
+Ovine Johnes Disease,Progressive weight loss,1.0
+Ovine Johnes Disease,Weakness,0.8
+Ovine Johnes Disease,Bottle jaw,0.8
+Ovine Johnes Disease,Normal appetite,0.6
+Ovine Johnes Disease,Loss of wool,0.7
+Ovine Johnes Disease,Pale mucous membranes,0.7
+Sheep Pox,Skin lesions,1.0
+Sheep Pox,Fever,0.9
+Sheep Pox,Nasal discharge,0.8
+Sheep Pox,Eye discharge,0.7
+Sheep Pox,Loss of appetite,0.7
+Sheep Pox,Swollen lymph nodes,0.7
+Sheep Pox,Respiratory distress,0.8
+Caseous Lymphadenitis,Swollen lymph nodes,1.0
+Caseous Lymphadenitis,Abscess formation,1.0
+Caseous Lymphadenitis,Weight loss,0.7
+Caseous Lymphadenitis,Weakness,0.6
+Caseous Lymphadenitis,Coughing if internal,0.7
+Caseous Lymphadenitis,Difficult breathing if internal,0.7
+Caseous Lymphadenitis,Thick pus discharge,0.9
+Ovine Foot Rot,Severe lameness,1.0
+Ovine Foot Rot,Foul odor from hooves,1.0
+Ovine Foot Rot,Separation of hoof horn,0.9
+Ovine Foot Rot,Swelling between toes,0.8
+Ovine Foot Rot,Reluctance to walk,0.9
+Ovine Foot Rot,Weight loss,0.6
+Ovine Foot Rot,Fever,0.6
+Buffalo Pasteurellosis,Sudden fever,0.9
+Buffalo Pasteurellosis,Swelling of throat,1.0
+Buffalo Pasteurellosis,Difficulty swallowing,0.9
+Buffalo Pasteurellosis,Difficulty breathing,0.9
+Buffalo Pasteurellosis,Salivation,0.7
+Buffalo Pasteurellosis,Diarrhea,0.7
+Buffalo Pasteurellosis,Depression,0.7
+Buffalo Pasteurellosis,Rapid death,0.9
+Surra,Anemia,0.9
+Surra,Progressive weight loss,0.9
+Surra,Weakness,0.8
+Surra,Edema,0.8
+Surra,Intermittent fever,0.9
+Surra,Pale mucous membranes,0.8
+Surra,Loss of appetite,0.7
+Surra,Reproductive failure,0.7
+Swine Fever,High fever,1.0
+Swine Fever,Loss of appetite,0.9
+Swine Fever,Diarrhea,0.8
+Swine Fever,Vomiting,0.8
+Swine Fever,Hemorrhages on skin,0.9
+Swine Fever,Convulsions,0.8
+Swine Fever,Weakness,0.8
+Swine Fever,Blue discoloration of ears,0.9
+Newcastle Disease,Twisting of neck,0.9
+Newcastle Disease,Paralysis,0.9
+Newcastle Disease,Respiratory distress,0.9
+Newcastle Disease,Greenish diarrhea,0.9
+Newcastle Disease,Swollen head,0.8
+Newcastle Disease,Drop in egg production,0.8
+Newcastle Disease,Loss of appetite,0.7
+Newcastle Disease,Sudden death,0.8
+Avian Influenza,High mortality,1.0
+Avian Influenza,Respiratory distress,0.9
+Avian Influenza,Swollen head and face,0.9
+Avian Influenza,Blue discoloration of comb,0.9
+Avian Influenza,Drop in egg production,0.8
+Avian Influenza,Diarrhea,0.7
+Avian Influenza,Neurological signs,0.8
+Avian Influenza,Sudden death,0.9
+Infectious Bursal Disease,Acute depression,0.9
+Infectious Bursal Disease,Watery diarrhea,0.9
+Infectious Bursal Disease,Ruffled feathers,0.8
+Infectious Bursal Disease,Reluctance to move,0.8
+Infectious Bursal Disease,Swollen bursa,1.0
+Infectious Bursal Disease,Dehydration,0.9
+Infectious Bursal Disease,Loss of appetite,0.8
+Marek's Disease,Paralysis of legs,1.0
+Marek's Disease,Paralysis of wings,0.9
+Marek's Disease,Gray iris,0.9
+Marek's Disease,Weight loss,0.8
+Marek's Disease,Skin tumors,0.8
+Marek's Disease,Loss of appetite,0.7
+Marek's Disease,Depression,0.7
+Equine Influenza,Fever,0.9
+Equine Influenza,Dry cough,0.9
+Equine Influenza,Nasal discharge,0.8
+Equine Influenza,Muscle soreness,0.8
+Equine Influenza,Loss of appetite,0.7
+Equine Influenza,Weakness,0.7
+Equine Influenza,Depression,0.7
+Equine Strangles,Swollen lymph nodes under jaw,1.0
+Equine Strangles,Abscesses in lymph nodes,1.0
+Equine Strangles,High fever,0.9
+Equine Strangles,Nasal discharge,0.9
+Equine Strangles,Difficulty swallowing,0.8
+Equine Strangles,Loss of appetite,0.7
+Equine Strangles,Depression,0.7
+Equine Herpesvirus,Fever,0.9
+Equine Herpesvirus,Nasal discharge,0.8
+Equine Herpesvirus,Respiratory distress,0.8
+Equine Herpesvirus,Abortion,0.9
+Equine Herpesvirus,Neurological signs,0.9
+Equine Herpesvirus,Weakness in hindlimbs,0.9
+Equine Herpesvirus,Loss of appetite,0.7
+Equine Colic,Abdominal pain,1.0
+Equine Colic,Pawing at ground,0.9
+Equine Colic,Rolling,0.9
+Equine Colic,Looking at flanks,0.9
+Equine Colic,Sweating,0.8
+Equine Colic,Increased heart rate,0.8
+Equine Colic,Reduced gut sounds,0.9
+Equine Colic,Refusal to eat,0.8
+Canine Distemper,Seizures,0.9
+Feline Upper Respiratory Infection,Sneezing,0.9
+Feline Upper Respiratory Infection,Nasal discharge,0.9
+Feline Upper Respiratory Infection,Eye discharge,0.8
+Feline Upper Respiratory Infection,Fever,0.7
+Feline Upper Respiratory Infection,Loss of appetite,0.7
+Feline Upper Respiratory Infection,Lethargy,0.7
+Feline Upper Respiratory Infection,Coughing,0.7
+Dermatophytosis,Circular hair loss,1.0
+Dermatophytosis,Scaly skin,0.9
+Dermatophytosis,Crusty patches,0.9
+Dermatophytosis,Itching,0.8
+Dermatophytosis,Skin redness,0.7
+Dermatophytosis,Broken hairs,0.8
+Dermatophytosis,Thickened skin,0.7
+Toxoplasmosis,Fever,0.9
+Toxoplasmosis,Lethargy,0.8
+Toxoplasmosis,Loss of appetite,0.8
+Toxoplasmosis,Respiratory distress,0.8
+Toxoplasmosis,Neurological signs,0.9
+Toxoplasmosis,Abortion in small ruminants,0.9
+Toxoplasmosis,Eye inflammation,0.8
+Salmonellosis,Fever,0.9
+Salmonellosis,Diarrhea,1.0
+Salmonellosis,Bloody feces,0.9
+Salmonellosis,Vomiting,0.8
+Salmonellosis,Dehydration,0.9
+Salmonellosis,Loss of appetite,0.8
+Salmonellosis,Abdominal pain,0.8
+Salmonellosis,Weakness,0.7
+Coccidiosis,Diarrhea,1.0
+Coccidiosis,Bloody diarrhea,0.9
+Coccidiosis,Loss of appetite,0.8
+Coccidiosis,Dehydration,0.9
+Coccidiosis,Weakness,0.8
+Coccidiosis,Weight loss,0.8
+Coccidiosis,Fever,0.7
+Coccidiosis,Straining to defecate,0.8
+Cryptosporidiosis,Profuse watery diarrhea,1.0
+Cryptosporidiosis,Dehydration,0.9
+Cryptosporidiosis,Loss of appetite,0.8
+Cryptosporidiosis,Weakness,0.8
+Cryptosporidiosis,Fever,0.7
+Cryptosporidiosis,Weight loss,0.7
+Cryptosporidiosis,Abdominal cramping,0.7
+Giardiasis,Intermittent diarrhea,0.9
+Giardiasis,Soft feces,0.8
+Giardiasis,Weight loss,0.8
+Giardiasis,Loss of appetite,0.7
+Giardiasis,Lethargy,0.7
+Giardiasis,Vomiting,0.6
+Giardiasis,Flatulence,0.6
+Eimeriosis,Diarrhea,0.9
+Eimeriosis,Bloody feces,0.9
+Eimeriosis,Weakness,0.8
+Eimeriosis,Dehydration,0.9
+Eimeriosis,Loss of appetite,0.8
+Eimeriosis,Weight loss,0.8
+Eimeriosis,Fever,0.7
+Eimeriosis,Abdominal pain,0.7
+Pneumonia,Coughing,0.9
+Pneumonia,Fever,0.9
+Pneumonia,Rapid breathing,0.9
+Pneumonia,Difficulty breathing,0.9
+Pneumonia,Nasal discharge,0.8
+Pneumonia,Loss of appetite,0.7
+Pneumonia,Lethargy,0.7
+Pneumonia,Abnormal lung sounds,0.9
+Enterotoxemia,Sudden death,1.0
+Enterotoxemia,Convulsions,0.9
+Enterotoxemia,Bloat,0.8
+Enterotoxemia,Diarrhea,0.8
+Enterotoxemia,Neurological signs,0.9
+Enterotoxemia,Loss of appetite,0.7
+Enterotoxemia,Bloody feces,0.8
+Tetanus,Muscle stiffness,1.0
+Tetanus,Lockjaw,1.0
+Tetanus,Prolapsed third eyelid,0.9
+Tetanus,Difficulty swallowing,0.9
+Tetanus,Convulsions,0.9
+Tetanus,Hypersensitivity to stimuli,0.9
+Tetanus,Rigid stance,0.9
+Botulism,Progressive paralysis,1.0
+Botulism,Difficulty swallowing,0.9
+Botulism,Weakness,0.9
+Botulism,Loss of muscle tone,0.9
+Botulism,Difficulty breathing,0.8
+Botulism,Loss of appetite,0.7
+Botulism,Drooling,0.7
+Listeriosis,Circling,1.0
+Listeriosis,Head tilt,0.9
+Listeriosis,Facial paralysis,0.9
+Listeriosis,Fever,0.8
+Listeriosis,Loss of appetite,0.7
+Listeriosis,Abortion,0.8
+Listeriosis,Depression,0.7
+Actinobacillosis,Swelling of tongue,1.0
+Actinobacillosis,Hard swelling of tongue,1.0
+Actinobacillosis,Drooling,0.8
+Actinobacillosis,Difficulty swallowing,0.9
+Actinobacillosis,Weight loss,0.7
+Actinobacillosis,Loss of appetite,0.7
+Actinobacillosis,Lymph node swelling,0.8
+Actinomycosis,Swelling of jaw,1.0
+Actinomycosis,Hard bony swelling,1.0
+Actinomycosis,Draining tracts,0.9
+Actinomycosis,Difficulty chewing,0.9
+Actinomycosis,Weight loss,0.7
+Actinomycosis,Loss of appetite,0.7
+Actinomycosis,Foul smell from lesion,0.8
+Pinkeye,Eye redness,1.0
+Pinkeye,Eye discharge,0.9
+Pinkeye,Corneal opacity,0.9
+Pinkeye,Excessive tearing,0.8
+Pinkeye,Squinting,0.8
+Pinkeye,Sensitivity to light,0.8
+Pinkeye,Corneal ulceration,0.9
+Urolithiasis,Straining to urinate,1.0
+Urolithiasis,Crying during urination,0.9
+Urolithiasis,Blood in urine,0.9
+Urolithiasis,Reduced urine flow,0.9
+Urolithiasis,Abdominal pain,0.8
+Urolithiasis,Distended abdomen,0.8
+Urolithiasis,Loss of appetite,0.7
+White Muscle Disease,Muscle weakness,1.0
+White Muscle Disease,Stiffness,0.9
+White Muscle Disease,Difficulty walking,0.9
+White Muscle Disease,Respiratory distress,0.8
+White Muscle Disease,Arched back,0.8
+White Muscle Disease,Pale muscles,0.9
+White Muscle Disease,Inability to stand,0.9
+Polioencephalomalacia,Blindness,1.0
+Polioencephalomalacia,Star gazing,0.9
+Polioencephalomalacia,Convulsions,0.9
+Polioencephalomalacia,Head pressing,0.9
+Polioencephalomalacia,Incoordination,0.8
+Polioencephalomalacia,Photosensitivity,0.7
+Polioencephalomalacia,Depression,0.7
+Abomasal Displacement,Decreased milk production,0.8
+Abomasal Displacement,Reduced fecal output,0.8
+Abomasal Displacement,Ketosis signs,0.7
+Abomasal Displacement,Ping sound on percussion,1.0
+Abomasal Displacement,Loss of appetite,0.8
+Abomasal Displacement,Abdominal discomfort,0.8
+Abomasal Displacement,Weight loss,0.7
+Abomasal Displacement,Dehydration,0.7
+Neonatal Diarrhea,Profuse liquid diarrhea,1.0
+Neonatal Diarrhea,Dehydration,0.9
+Neonatal Diarrhea,Weakness,0.9
+Neonatal Diarrhea,Loss of suck reflex,0.8
+Neonatal Diarrhea,Sunken eyes,0.8
+Neonatal Diarrhea,Fever,0.7
+Neonatal Diarrhea,Rapid breathing,0.6
+Infectious Keratoconjunctivitis,Corneal ulceration,1.0
+Infectious Keratoconjunctivitis,Excessive tearing,0.9
+Infectious Keratoconjunctivitis,Eye redness,0.9
+Infectious Keratoconjunctivitis,Eye discharge,0.8
+Infectious Keratoconjunctivitis,Squinting,0.9
+Infectious Keratoconjunctivitis,Photophobia,0.8
+Infectious Keratoconjunctivitis,Corneal opacity,0.9
+Campylobacteriosis,Diarrhea,0.9
+Campylobacteriosis,Bloody feces,0.8
+Campylobacteriosis,Fever,0.8
+Campylobacteriosis,Abortion in sheep,0.9
+Campylobacteriosis,Loss of appetite,0.7
+Campylobacteriosis,Lethargy,0.7
+Campylobacteriosis,Vomiting,0.6
+Leptospirosis,Fever,0.9
+Leptospirosis,Jaundice,0.9
+Leptospirosis,Hemoglobinuria,0.9
+Leptospirosis,Abortion,0.8
+Leptospirosis,Reduced milk production,0.8
+Leptospirosis,Kidney failure signs,0.9
+Leptospirosis,Weakness,0.7
+Leptospirosis,Loss of appetite,0.7
+Bovine Ephemeral Fever,Sudden high fever,0.9
+Bovine Ephemeral Fever,Muscle stiffness,0.9
+Bovine Ephemeral Fever,Lameness,0.8
+Bovine Ephemeral Fever,Shivering,0.8
+Bovine Ephemeral Fever,Loss of appetite,0.7
+Bovine Ephemeral Fever,Reduced milk production,0.7
+Bovine Ephemeral Fever,Nasal discharge,0.6
+Bovine Ephemeral Fever,Salivation,0.6
+Orf,Scabby lesions on lips,1.0
+Orf,Crusty mouth lesions,0.9
+Orf,Difficulty eating,0.8
+Orf,Weight loss,0.7
+Orf,Lesions on teats,0.7
+Orf,Lesions on hooves,0.7
+Orf,Secondary infection signs,0.6
+Johnes Disease,Chronic diarrhea,1.0
+Johnes Disease,Progressive weight loss,1.0
+Johnes Disease,Bottle jaw,0.9
+Johnes Disease,Weakness,0.8
+Johnes Disease,Normal temperature,0.5
+Johnes Disease,Reduced milk production,0.7
+Johnes Disease,Loss of condition,0.9
+Anaplasmosis,Fever,0.9
+Anaplasmosis,Anemia,0.9
+Anaplasmosis,Jaundice,0.8
+Anaplasmosis,Weight loss,0.8
+Anaplasmosis,Weakness,0.8
+Anaplasmosis,Pale mucous membranes,0.9
+Anaplasmosis,Loss of appetite,0.7
+Anaplasmosis,Decreased milk production,0.7
+Anaplasmosis,Reduced feed intake,0.6
+Anaplasmosis,Rapid breathing,0.7
+Salmonellosis,Depression,0.7
+Eimeriosis,Dehydration,0.8
+Giardiasis,Bloating,0.6
+Giardiasis,Mucus in feces,0.7
+Campylobacteriosis,Abdominal pain,0.7
+Leptospirosis,Muscle pain,0.7
+Bovine Ephemeral Fever,Swollen joints,0.6
+Orf,Pain while eating,0.7
+Johnes Disease,Submandibular edema,0.7

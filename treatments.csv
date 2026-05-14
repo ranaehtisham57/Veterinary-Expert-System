@@ -1,0 +1,247 @@
+Disease,Medicine,BrandName,Dosage,Duration
+Foot and Mouth Disease,Aspirin,Disprin,Once daily,5 days
+Foot and Mouth Disease,Oxytetracycline,Terramycin,2 times/day,7 days
+Foot and Mouth Disease,Glycerin mouth wash,Listerine Vet,3 times/day,5 days
+Bovine Tuberculosis,Isoniazid,Laniazid,Once daily,180 days
+Bovine Tuberculosis,Rifampicin,Rifadin,Once daily,180 days
+Bovine Tuberculosis,Pyrazinamide,Rifater,Once daily,60 days
+Brucellosis,Oxytetracycline,Terramycin,2 times/day,21 days
+Brucellosis,Streptomycin,Streptomycin Sulphate,Once daily,21 days
+Brucellosis,Doxycycline,Vibramycin,2 times/day,14 days
+Anthrax,Penicillin G,Pfizerpen,4 times/day,5 days
+Anthrax,Oxytetracycline,Terramycin,2 times/day,5 days
+Anthrax,Anthrax antiserum,Anthrax Antiserum Sero,Once daily,3 days
+Blackleg,Penicillin G,Pfizerpen,4 times/day,5 days
+Blackleg,Oxytetracycline,Terramycin,2 times/day,7 days
+Blackleg,Blackleg antitoxin,Blackleg Antitoxin Biovac,Once daily,3 days
+Bovine Respiratory Disease,Enrofloxacin,Baytril,Once daily,5 days
+Bovine Respiratory Disease,Tulathromycin,Draxxin,Once daily,1 day
+Bovine Respiratory Disease,Florfenicol,Nuflor,2 times/day,3 days
+Mastitis,Amoxicillin intramammary,Amoximast,2 times/day,3 days
+Mastitis,Cephalosporins,Cephalexin Vet,2 times/day,5 days
+Mastitis,Oxytocin,Pitocin Vet,2 times/day,3 days
+Lumpy Skin Disease,Oxytetracycline,Terramycin,2 times/day,5 days
+Lumpy Skin Disease,Anti-inflammatory drugs,Banamine,Once daily,5 days
+Lumpy Skin Disease,Supportive fluids,Ringer Lactate,2 times/day,5 days
+Rinderpest,Supportive therapy,Ringer Lactate,3 times/day,7 days
+Rinderpest,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Bovine Viral Diarrhea,Supportive fluids,Ringer Lactate,2 times/day,7 days
+Bovine Viral Diarrhea,Anti-inflammatory drugs,Banamine,Once daily,5 days
+Bovine Viral Diarrhea,Vitamin supplements,Multivit Vet,Once daily,10 days
+Trypanosomiasis,Diminazene aceturate,Berenil,Once daily,3 days
+Trypanosomiasis,Isometamidium,Samorin,Once daily,1 day
+Trypanosomiasis,Homidium bromide,Ethidium,Once daily,1 day
+Theileriosis,Buparvaquone,Butalex,Once daily,3 days
+Theileriosis,Parvaquone,Clexon,Once daily,3 days
+Theileriosis,Oxytetracycline,Terramycin,2 times/day,5 days
+Babesiosis,Imidocarb dipropionate,Imizol,Once daily,2 days
+Babesiosis,Diminazene aceturate,Berenil,Once daily,2 days
+Babesiosis,Supportive fluids,Ringer Lactate,2 times/day,5 days
+Grass Tetany,Magnesium sulfate IV,MgSO4 Injection,Once daily,3 days
+Grass Tetany,Calcium borogluconate,Calcibor,Once daily,2 days
+Grass Tetany,Magnesium supplementation,MagPhos,Once daily,14 days
+Milk Fever,Calcium borogluconate IV,Calcibor IV,Once daily,1 day
+Milk Fever,Oral calcium supplementation,Calcivet Oral,3 times/day,3 days
+Ketosis,Propylene glycol oral,Propylene Glycol Vet,2 times/day,5 days
+Ketosis,Dextrose IV,Dextrose 50%,Once daily,3 days
+Ketosis,B-vitamins injection,Vitabee Injection,Once daily,5 days
+Bloat,Bloat remedy (poloxalene),Therabloat,Once daily,3 days
+Bloat,Stomach tube relief,Bovine Stomach Tube Kit,Once daily,2 days
+Bloat,Dimethicone,Gas-X Vet,2 times/day,3 days
+Hardware Disease,Rumenotomy,Surgical Procedure,Once,1 day
+Hardware Disease,Magnet administration,Cow Magnet (Bar),Once,1 day
+Hardware Disease,Penicillin G,Pfizerpen,4 times/day,7 days
+Ringworm,Griseofulvin,Fulvicin,Once daily,30 days
+Ringworm,Miconazole topical,Conofite,2 times/day,14 days
+Ringworm,Itraconazole,Itrafungol,Once daily,14 days
+Mange,Ivermectin,Ivomec,Once every 14 days,2 doses
+Mange,Amitraz dip,Taktic,Once weekly,4 weeks
+Mange,Doramectin,Dectomax,Once every 14 days,2 doses
+Liver Fluke Disease,Triclabendazole,Fasinex,Once daily,1 day
+Liver Fluke Disease,Albendazole,Valbazen,Once daily,3 days
+Liver Fluke Disease,Closantel,Seponver,Once daily,1 day
+Haemonchosis,Ivermectin,Ivomec,Once daily,1 day
+Haemonchosis,Levamisole,Levasole,Once daily,1 day
+Haemonchosis,Albendazole,Valbazen,Once daily,3 days
+Contagious Bovine Pleuropneumonia,Oxytetracycline,Terramycin,2 times/day,5 days
+Contagious Bovine Pleuropneumonia,Tylosin,Tylan,2 times/day,5 days
+Contagious Bovine Pleuropneumonia,Tiamulin,Tiamutin,2 times/day,5 days
+Bovine Leukemia,Supportive therapy,Ringer Lactate,Once daily,14 days
+Bovine Leukemia,Anti-inflammatory drugs,Banamine,Once daily,7 days
+Rabies,Euthanasia (no cure),Euthasol,Once,1 day
+Rabies,Post-exposure prophylaxis vaccination,Imovax Rabies,Once daily,14 days
+Canine Distemper,Supportive fluids,Ringer Lactate,2 times/day,10 days
+Canine Distemper,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Canine Distemper,Anticonvulsants,Phenobarbital Vet,2 times/day,14 days
+Canine Parvovirus,IV fluids,Normal Saline / Ringer,Continuous,5 days
+Canine Parvovirus,Antiemetics,Cerenia,3 times/day,5 days
+Canine Parvovirus,Antibiotics,Ampivet,2 times/day,7 days
+Canine Infectious Hepatitis,IV fluids,Normal Saline / Ringer,2 times/day,7 days
+Canine Infectious Hepatitis,Liver protectants,Hepato-S,2 times/day,14 days
+Canine Infectious Hepatitis,Antibiotics,Ampivet,2 times/day,7 days
+Kennel Cough,Doxycycline,Vibramycin,2 times/day,10 days
+Kennel Cough,Azithromycin,Zithromax,Once daily,5 days
+Kennel Cough,Cough suppressants,Dextromethorphan Vet,3 times/day,7 days
+Canine Leptospirosis,Penicillin G,Pfizerpen,4 times/day,7 days
+Canine Leptospirosis,Doxycycline,Vibramycin,2 times/day,14 days
+Canine Leptospirosis,IV fluids,Normal Saline / Ringer,2 times/day,5 days
+Canine Ehrlichiosis,Doxycycline,Vibramycin,2 times/day,28 days
+Canine Ehrlichiosis,Chloramphenicol,Chloromycetin,3 times/day,14 days
+Hip Dysplasia,Meloxicam,Metacam,Once daily,Ongoing
+Hip Dysplasia,Carprofen,Rimadyl,2 times/day,Ongoing
+Hip Dysplasia,Joint supplements (glucosamine),Cosequin,Once daily,Ongoing
+Canine Hypothyroidism,Levothyroxine,Soloxine,2 times/day,Lifelong
+Canine Hypothyroidism,Thyroid hormone replacement,Thyro-Tabs,Once daily,Lifelong
+Feline Panleukopenia,IV fluids,Normal Saline / Ringer,Continuous,7 days
+Feline Panleukopenia,Antiemetics,Cerenia,3 times/day,5 days
+Feline Panleukopenia,Antibiotics,Ampivet,2 times/day,7 days
+Feline Herpesvirus,Famciclovir,Famvir,2 times/day,14 days
+Feline Herpesvirus,L-lysine supplementation,Enisyl-F,2 times/day,30 days
+Feline Herpesvirus,Antibiotic eye drops,Chloramphenicol Eye Drops,3 times/day,14 days
+Feline Calicivirus,Supportive care,Ringer Lactate,3 times/day,7 days
+Feline Calicivirus,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Feline Calicivirus,Anti-inflammatory drugs,Banamine,Once daily,5 days
+Feline Leukemia Virus,Supportive therapy,Ringer Lactate,Once daily,Ongoing
+Feline Leukemia Virus,Antiviral drugs,Interferon Alpha Vet,Once daily,30 days
+Feline Immunodeficiency Virus,Antiviral therapy,Interferon Alpha Vet,Once daily,Ongoing
+Feline Immunodeficiency Virus,Supportive antibiotics,Ampivet,2 times/day,10 days
+Feline Infectious Peritonitis,Antiviral (GS-441524),Mutian X,Once daily,84 days
+Feline Infectious Peritonitis,Prednisolone,Prednisolone Vet,Once daily,30 days
+Feline Hyperthyroidism,Methimazole,Tapazole,2 times/day,Lifelong
+Feline Hyperthyroidism,Radioactive iodine,I-131 Therapy,Once,1 day
+Feline Hyperthyroidism,Surgical thyroidectomy,Surgical Procedure,Once,1 day
+Feline Diabetes,Insulin (PZI),ProZinc,2 times/day,Lifelong
+Feline Diabetes,Dietary management,Prescription Diet,3 times/day,Lifelong
+Feline Kidney Disease,IV fluids,Normal Saline / Ringer,2 times/day,5 days
+Feline Kidney Disease,Phosphorus binders,Epakitin,2 times/day,Lifelong
+Feline Kidney Disease,ACE inhibitors,Benazepril Vet,Once daily,Lifelong
+Goat Pox,Oxytetracycline,Terramycin,2 times/day,5 days
+Goat Pox,Antiseptic skin treatment,Betadine Scrub,2 times/day,7 days
+Goat Pox,Anti-inflammatory drugs,Banamine,Once daily,5 days
+Peste des Petits Ruminants,Oxytetracycline,Terramycin,2 times/day,7 days
+Peste des Petits Ruminants,Supportive fluids,Ringer Lactate,2 times/day,7 days
+Peste des Petits Ruminants,Vitamin supplementation,Multivit Vet,Once daily,10 days
+Contagious Caprine Pleuropneumonia,Oxytetracycline,Terramycin,2 times/day,5 days
+Contagious Caprine Pleuropneumonia,Tylosin,Tylan,2 times/day,5 days
+Goat Brucellosis,Oxytetracycline,Terramycin,2 times/day,21 days
+Goat Brucellosis,Streptomycin,Streptomycin Sulphate,Once daily,21 days
+Caprine Arthritis Encephalitis,Supportive care,Ringer Lactate,Once daily,14 days
+Caprine Arthritis Encephalitis,Anti-inflammatory drugs,Banamine,Once daily,14 days
+Sheep Scab,Ivermectin,Ivomec,Once every 14 days,2 doses
+Sheep Scab,Amitraz dip,Taktic,Once weekly,3 weeks
+Ovine Johnes Disease,Supportive therapy,Ringer Lactate,Once daily,30 days
+Ovine Johnes Disease,Dietary management,Prescription Diet,3 times/day,Ongoing
+Sheep Pox,Oxytetracycline,Terramycin,2 times/day,5 days
+Sheep Pox,Antiseptic treatment,Betadine Scrub,2 times/day,7 days
+Caseous Lymphadenitis,Surgical drainage,Surgical Procedure,Once,1 day
+Caseous Lymphadenitis,Penicillin G,Pfizerpen,4 times/day,7 days
+Caseous Lymphadenitis,Oxytetracycline,Terramycin,2 times/day,5 days
+Ovine Foot Rot,Zinc sulfate foot bath,Zinc Sulfate 10%,Once daily,10 days
+Ovine Foot Rot,Oxytetracycline,Terramycin,2 times/day,5 days
+Ovine Foot Rot,Hoof trimming with antibiotic spray,Koppertox Spray,Once daily,7 days
+Buffalo Pasteurellosis,Oxytetracycline,Terramycin,2 times/day,5 days
+Buffalo Pasteurellosis,Penicillin G,Pfizerpen,4 times/day,5 days
+Buffalo Pasteurellosis,Anti-inflammatory drugs,Banamine,Once daily,5 days
+Surra,Diminazene aceturate,Berenil,Once daily,3 days
+Surra,Isometamidium,Samorin,Once daily,1 day
+Swine Fever,Supportive therapy,Ringer Lactate,2 times/day,7 days
+Swine Fever,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Newcastle Disease,Supportive therapy,Ringer Lactate,2 times/day,7 days
+Newcastle Disease,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Avian Influenza,Supportive therapy,Ringer Lactate,2 times/day,7 days
+Avian Influenza,Oseltamivir,Tamiflu,2 times/day,5 days
+Infectious Bursal Disease,Supportive fluids,Ringer Lactate,2 times/day,5 days
+Infectious Bursal Disease,Vitamin supplementation,Multivit Vet,Once daily,7 days
+Marek's Disease,Supportive care,Ringer Lactate,Once daily,14 days
+Marek's Disease,Anti-inflammatory drugs,Banamine,Once daily,7 days
+Equine Influenza,Rest,Supportive Rest Protocol,Once daily,10 days
+Equine Influenza,NSAIDs (Phenylbutazone),Bute (Phenylbutazone),2 times/day,5 days
+Equine Influenza,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Equine Strangles,Penicillin G,Pfizerpen,4 times/day,7 days
+Equine Strangles,Abscess drainage,Surgical Procedure,Once,1 day
+Equine Strangles,Supportive care,Ringer Lactate,2 times/day,10 days
+Equine Herpesvirus,Acyclovir,Zovirax,3 times/day,10 days
+Equine Herpesvirus,NSAIDs,Banamine,2 times/day,7 days
+Equine Herpesvirus,Supportive fluids,Ringer Lactate,2 times/day,5 days
+Equine Colic,Buscopan (hyoscine),Buscopan Compositum,Once daily,2 days
+Equine Colic,Flunixin meglumine,Banamine,2 times/day,3 days
+Equine Colic,Mineral oil via nasogastric tube,White Mineral Oil,Once daily,2 days
+Feline Upper Respiratory Infection,Doxycycline,Vibramycin,2 times/day,10 days
+Feline Upper Respiratory Infection,Antibiotic eye drops,Chloramphenicol Eye Drops,3 times/day,7 days
+Feline Upper Respiratory Infection,Saline nasal drops,NeilMed Saline,3 times/day,7 days
+Dermatophytosis,Griseofulvin,Fulvicin,Once daily,30 days
+Dermatophytosis,Itraconazole,Itrafungol,Once daily,14 days
+Dermatophytosis,Topical antifungal,Clotrimazole Cream,2 times/day,21 days
+Toxoplasmosis,Pyrimethamine,Daraprim,2 times/day,28 days
+Toxoplasmosis,Sulfadiazine,Microsulfon,4 times/day,28 days
+Toxoplasmosis,Clindamycin,Antirobe,3 times/day,14 days
+Salmonellosis,Enrofloxacin,Baytril,2 times/day,7 days
+Salmonellosis,Amoxicillin,Amoxil,3 times/day,7 days
+Salmonellosis,Oral rehydration therapy,Electrolyte Oral (ORS),3 times/day,5 days
+Coccidiosis,Amprolium,Corid,Once daily,5 days
+Coccidiosis,Sulfadimidine,Sulmet,Once daily,5 days
+Coccidiosis,Toltrazuril,Baycox,Once daily,2 days
+Cryptosporidiosis,Nitazoxanide,Alinia,2 times/day,3 days
+Cryptosporidiosis,Oral rehydration therapy,Electrolyte Oral (ORS),3 times/day,5 days
+Giardiasis,Metronidazole,Flagyl,2 times/day,5 days
+Giardiasis,Fenbendazole,Panacur,Once daily,5 days
+Giardiasis,Tinidazole,Tindamax,Once daily,3 days
+Eimeriosis,Toltrazuril,Baycox,Once daily,2 days
+Eimeriosis,Amprolium,Corid,Once daily,5 days
+Eimeriosis,Sulfaquinoxaline,Sul-Q-Nox,Once daily,5 days
+Pneumonia,Enrofloxacin,Baytril,Once daily,5 days
+Pneumonia,Amoxicillin-clavulanate,Clavamox,2 times/day,7 days
+Pneumonia,Florfenicol,Nuflor,2 times/day,5 days
+Enterotoxemia,Enterotoxemia antitoxin,Clostridium Antitoxin,Once daily,3 days
+Enterotoxemia,Penicillin G,Pfizerpen,4 times/day,5 days
+Enterotoxemia,Oral electrolytes,Electrolyte Oral (ORS),3 times/day,5 days
+Tetanus,Tetanus antitoxin,Tetanus Antitoxin Biovac,Once daily,5 days
+Tetanus,Penicillin G,Pfizerpen,4 times/day,10 days
+Tetanus,Muscle relaxants (diazepam),Valium Vet,3 times/day,7 days
+Botulism,Botulism antitoxin,Botulism Antitoxin (Heptavalent),Once daily,3 days
+Botulism,Supportive fluids,Ringer Lactate,2 times/day,7 days
+Listeriosis,Penicillin G,Pfizerpen,4 times/day,14 days
+Listeriosis,Ampicillin,Omnipen,3 times/day,14 days
+Actinobacillosis,Potassium iodide,SSKI,Once daily,30 days
+Actinobacillosis,Penicillin G,Pfizerpen,4 times/day,7 days
+Actinobacillosis,Sodium iodide IV,Sodium Iodide 20%,Once daily,14 days
+Actinomycosis,Potassium iodide,SSKI,Once daily,30 days
+Actinomycosis,Penicillin G,Pfizerpen,4 times/day,7 days
+Actinomycosis,Surgical debridement,Surgical Procedure,Once,1 day
+Pinkeye,Oxytetracycline eye ointment,Terramycin Eye Ointment,3 times/day,5 days
+Pinkeye,Penicillin subconjunctival injection,Pfizerpen Inj,Once,1 day
+Pinkeye,Topical antibiotics,Neosporin Vet,3 times/day,7 days
+Urolithiasis,Ammonium chloride,Ammonium Chloride Powder,Once daily,14 days
+Urolithiasis,Urinary catheterization,Foley Catheter Kit,Once,1 day
+Urolithiasis,Surgical correction,Surgical Procedure,Once,1 day
+White Muscle Disease,Selenium and vitamin E injection,BoSe,Once daily,3 days
+White Muscle Disease,Vitamin E oral supplementation,Vitamin E Vet,Once daily,30 days
+Polioencephalomalacia,Thiamine (Vitamin B1),Vitamin B1 Injection,3 times/day,5 days
+Polioencephalomalacia,Supportive fluids,Ringer Lactate,2 times/day,3 days
+Polioencephalomalacia,Dexamethasone,Azium,Once daily,3 days
+Abomasal Displacement,Surgical correction (right displacement),Surgical Procedure,Once,1 day
+Abomasal Displacement,Rolling procedure (left displacement),Surgical Procedure,Once,1 day
+Abomasal Displacement,Supportive fluids,Ringer Lactate,2 times/day,3 days
+Neonatal Diarrhea,Oral electrolytes,Electrolyte Oral (ORS),3 times/day,5 days
+Neonatal Diarrhea,IV fluids,Normal Saline / Ringer,2 times/day,3 days
+Neonatal Diarrhea,Antibiotics,Ampivet,2 times/day,5 days
+Infectious Keratoconjunctivitis,Oxytetracycline eye ointment,Terramycin Eye Ointment,3 times/day,7 days
+Infectious Keratoconjunctivitis,Penicillin subconjunctival,Pfizerpen Inj,Once,1 day
+Infectious Keratoconjunctivitis,Topical antibiotics,Neosporin Vet,3 times/day,7 days
+Campylobacteriosis,Erythromycin,Erythrocin,3 times/day,5 days
+Campylobacteriosis,Tetracycline,Sumycin,3 times/day,5 days
+Campylobacteriosis,Oral rehydration,Electrolyte Oral (ORS),3 times/day,5 days
+Leptospirosis,Penicillin G,Pfizerpen,4 times/day,10 days
+Leptospirosis,Doxycycline,Vibramycin,2 times/day,14 days
+Leptospirosis,Streptomycin,Streptomycin Sulphate,Once daily,14 days
+Bovine Ephemeral Fever,NSAIDs (Flunixin),Banamine,2 times/day,3 days
+Bovine Ephemeral Fever,Supportive fluids,Ringer Lactate,2 times/day,3 days
+Bovine Ephemeral Fever,Calcium supplementation,Calcivet,Once daily,3 days
+Orf,Topical antiseptics,Betadine Scrub,2 times/day,14 days
+Orf,Antibiotics for secondary infections,Ampivet,2 times/day,7 days
+Johnes Disease,Supportive therapy,Ringer Lactate,Once daily,30 days
+Johnes Disease,Dietary management,Prescription Diet,3 times/day,Ongoing
+Johnes Disease,Antidiarrheal agents,Kaolin-Pectin Vet,2 times/day,14 days
+Anaplasmosis,Oxytetracycline,Terramycin,2 times/day,5 days
+Anaplasmosis,Imidocarb dipropionate,Imizol,Once daily,2 days
+Anaplasmosis,Supportive fluids,Ringer Lactate,2 times/day,5 days
